@@ -1,0 +1,41 @@
+<!DOCTYPE html">
+<html lang="es">
+<head>
+	<meta charset="UTF-8"/>
+	<meta description="Sitio web HTML5"/>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<title>SEGURIDAD INFORMATICA-LECTURAS|AUTORES </title>
+</head>
+<img src="img/logo1.jpg" alt="Aquí va una imagen" title="logo_unad">
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<div id="header" ><div id="headerContent">SEGURIDAD INFORMATICA-AUTORES </div></div>
+<div id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Inicio</a></li>
+   <li class="current-page-parent"><a href="MATERIAL_DE_LECTURA.html" class="current-page-parent daddy">Material de Lectura</a>
+   <ul>
+      <li id="active"><a href="MATERIAL_MULTIMEDIA.html" class="active no-ch">Material Multimedia</a></li>
+<div id='topPagination'>
+<div class="pagination noprt">
+<a href="index.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="index.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<div id="main-wrapper">
+<div id="main"><a name="main"></a>
+<div id="nodeDecoration"><h1 id="nodeTitle">AUTORES</h1></div>
+<div class="margenes espaciado">
+<img src="img/DAVID.jpg" width="105" height="106">
+		<p>Nombe: David Leonardo Hurtado M</p>
+		<p>Codigo:80759796</p>
+		<p>Programa: Ing de Sistemas</p>
+		<p>Correo electronico: samdavid18@hotmail.com </p>
+		<p>Skype: samdavid18 </p>
+		</div>
+<div id='bottomPagination'>
+<div class="pagination noprt">
+<a href="index.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="index.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</div>
+</div>
+<footer>
+	<img src="img/Logo_unad pie.jpg" alt="Aquí va una imagen" title="Logo_unad pie">Sede Nacional: Calle 14 Sur No. 14 - 23PBX:(+57) 1 344 3700 Bogotá D.C. Colombia.
+Línea Nacional gratuita desde Colombia 018000115223Correo electrónico: atencionalusuario@unad.edu.co
